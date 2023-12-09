@@ -314,6 +314,10 @@ a {
     font-size:36px!important
 }
 
+.w3-jumbo {
+    font-size: 64px!important;
+}
+
 /* Text Align */
 .w3-justify {
     text-align:justify!important
