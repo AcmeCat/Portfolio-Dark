@@ -314,18 +314,9 @@ a {
     font-size:36px!important
 }
 
-@media (min-width:993px) {
-
-    .w3-jumbo {
-        font-size: 96px!important;
-    }
-}
-
 .w3-jumbo {
-    font-size: 64px!important;
+    font-size:96px!important
 }
-
-
 
 /* Text Align */
 .w3-justify {
